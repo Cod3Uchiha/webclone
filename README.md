@@ -2,7 +2,7 @@
 
 Welcome to the Webclone tool, my  first Termux project! This tool allows you to easily download the source code of a website directly from your Android device using Termux. Below are the steps to set up and use the Webclone tool effectively.
 
-##please fork and star, this is my first Termux project
+## please fork and star, this is my first Termux project
 
 *Setting up the Environment*
 1. *Install Termux*: If you haven't already, download and install Termux from the Google Play Store or F-Droid.
